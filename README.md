@@ -8,13 +8,13 @@
 
 **RF**
 
-- [ ] Deve ser possível cadastrar um novo carro.
+- [X] Deve ser possível cadastrar um novo carro.
 
 <!-- **RNF** -->
 
 **RN**
-- [ ] Não deve ser possível cadastrar com uma placa já existente.
-- [ ] O carro deve ser cadastrado, por padrão, com disponibilidade.
+- [X] Não deve ser possível cadastrar com uma placa já existente.
+- [X] O carro deve ser cadastrado, por padrão, com disponibilidade.
 - [ ] * O usuário responsável pelo cadastro deve ser um usuário administrador.
 
 ---
