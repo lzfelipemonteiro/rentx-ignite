@@ -27,19 +27,19 @@
 - [X] Deve ser possível listar todos os carros disponíveis pelo nome do carro.
 
 **RF**
-- [ ] O usuário não precisa estar logado no sistema
+- [X] O usuário não precisa estar logado no sistema
 
 ---
 # Cadastro de Especificações no carro
 
 **RF**
-- [ ] Deve ser possível cadastrar uma especificação para um carro
-- [ ] Deve ser possível listar todas as especificações.
+- [X] Deve ser possível cadastrar uma especificação para um carro
+- [X] Deve ser possível listar todas as especificações.
 - [ ] Deve ser possível listar todas os carros
 
 **RF**
-- [ ] Não deve ser possível cadastrar uma especificação para um carro não cadastrado.
-- [ ] Não deve ser possível cadastrar uma especificação já existente para um carro.
+- [X] Não deve ser possível cadastrar uma especificação para um carro não cadastrado.
+- [X] Não deve ser possível cadastrar uma especificação já existente para um carro.
 
 **RN**
 
@@ -47,15 +47,14 @@
 # Cadastro de imagem do carro
 
 **RF**
-- [ ] Dever ser possível cadastrar a imagem do carro.
-- [ ] Dever ser possível listar todos os carro.
+- [X] Dever ser possível cadastrar a imagem do carro.
 
 **RNF**
-- [ ] Utilizar o multer para o upload dos arquivos.
+- [X] Utilizar o multer para o upload dos arquivos.
 
 **RN**
-- [ ] O usuário deve poder cadastrar mais de uma imagem para o mesmo carro.
-- [ ] O usuário responsável pelo cadastro deve ser um usuário administrador.
+- [X] O usuário deve poder cadastrar mais de uma imagem para o mesmo carro.
+- [X] O usuário responsável pelo cadastro deve ser um usuário administrador.
 
 ---
 # Aluguel de carro
